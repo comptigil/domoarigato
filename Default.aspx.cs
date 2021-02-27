@@ -13,7 +13,7 @@ namespace domoarigato
     public partial class Default : System.Web.UI.Page
     {
 
-        mssqli BDcon = new mssqli("Data Source=ec2-54-208-60-90.compute-1.amazonaws.com;Initial Catalog=serialDB;User ID=sa;Password=Utl.2021");
+        mssqli BDcon = new mssqli("Data Source=integradoraii.cx2oholnfkjc.us-east-1.rds.amazonaws.com;Initial Catalog=serialDB;User ID=sa;Password=Utl.2021");
         protected void Page_Load(object sender, EventArgs e)
         {
 
