@@ -1,0 +1,25 @@
+c:\users\gilberto lopez\documents\visual studio 2012\Projects\domoarigato\domoarigato\bin\domoarigato.dll
+c:\users\gilberto lopez\documents\visual studio 2012\Projects\domoarigato\domoarigato\bin\domoarigato.pdb
+c:\users\gilberto lopez\documents\visual studio 2012\Projects\domoarigato\domoarigato\obj\Debug\domoarigato.dll
+c:\users\gilberto lopez\documents\visual studio 2012\Projects\domoarigato\domoarigato\obj\Debug\domoarigato.pdb
+E:\Usuarios\Gil\Escritorio\domoarigato\bin\domoarigato.dll.config
+E:\Usuarios\Gil\Escritorio\domoarigato\bin\domoarigato.dll
+E:\Usuarios\Gil\Escritorio\domoarigato\bin\domoarigato.pdb
+E:\Usuarios\Gil\Escritorio\domoarigato\obj\Debug\domoarigato.csprojAssemblyReference.cache
+E:\Usuarios\Gil\Escritorio\domoarigato\obj\Debug\domoarigato.csproj.CoreCompileInputs.cache
+E:\Usuarios\Gil\Escritorio\domoarigato\obj\Debug\domoarigato.dll
+E:\Usuarios\Gil\Escritorio\domoarigato\obj\Debug\domoarigato.pdb
+E:\Usuarios\Gil\Escritorio\scada .net\domoarigato\bin\domoarigato.dll.config
+E:\Usuarios\Gil\Escritorio\scada .net\domoarigato\bin\domoarigato.dll
+E:\Usuarios\Gil\Escritorio\scada .net\domoarigato\bin\domoarigato.pdb
+E:\Usuarios\Gil\Escritorio\scada .net\domoarigato\obj\Debug\domoarigato.csprojAssemblyReference.cache
+E:\Usuarios\Gil\Escritorio\scada .net\domoarigato\obj\Debug\domoarigato.csproj.CoreCompileInputs.cache
+E:\Usuarios\Gil\Escritorio\scada .net\domoarigato\obj\Debug\domoarigato.dll
+E:\Usuarios\Gil\Escritorio\scada .net\domoarigato\obj\Debug\domoarigato.pdb
+E:\Usuarios\Gil\Escritorio\SCADA .net\domoarigato - 2021\bin\domoarigato.dll.config
+E:\Usuarios\Gil\Escritorio\SCADA .net\domoarigato - 2021\bin\domoarigato.dll
+E:\Usuarios\Gil\Escritorio\SCADA .net\domoarigato - 2021\bin\domoarigato.pdb
+E:\Usuarios\Gil\Escritorio\SCADA .net\domoarigato - 2021\obj\Debug\domoarigato.csprojAssemblyReference.cache
+E:\Usuarios\Gil\Escritorio\SCADA .net\domoarigato - 2021\obj\Debug\domoarigato.csproj.CoreCompileInputs.cache
+E:\Usuarios\Gil\Escritorio\SCADA .net\domoarigato - 2021\obj\Debug\domoarigato.dll
+E:\Usuarios\Gil\Escritorio\SCADA .net\domoarigato - 2021\obj\Debug\domoarigato.pdb
